@@ -70,7 +70,7 @@
         <item>사진</item>
         <item>애니메이션</item>
     </string-array>
-	<string-array name="notify_timeout_entries">
+    <string-array name="notify_timeout_entries">
         <item>5초</item>
         <item>10초</item>
         <item>30초</item>
@@ -96,8 +96,8 @@
         <item>1</item>
         <item>2</item>
     </string-array>
-	    <string-array name="ksm_state_current">
-        <item>실행됨  (쌓인 량: %1$.1fMB)</item>
+    <string-array name="ksm_state_current">
+        <item>실행됨 (쌓인 량: %1$.1fMB)</item>
         <item>일시정지</item>
         <item>멈춤</item>
     </string-array>
@@ -230,10 +230,10 @@
         <item>3</item>
     </string-array>
     <string-array name="lockscreen_ringmode_entries">
-        <item>Default</item>
-        <item>Arc shortcuts</item>
-        <item>Left ring</item>
-        <item>Right ring</item>
+        <item>기본</item>
+        <item>호모양 바로가기</item>
+        <item>왼쪽 고리</item>
+        <item>오른쪽 고리</item>
     </string-array>
     <string-array name="lockscreen_ringmode_values">
         <item>0</item>
@@ -242,25 +242,25 @@
         <item>3</item>
     </string-array>
     <string-array name="longpress_buttons_ls_entries">
-        <item>None</item>
-        <item>Recent apps</item>
-        <item>Menu button</item>
-        <item>Reboot dialog</item>
-        <item>Power dialog</item>
-        <item>Search button</item>
-        <item>Longpress search</item>
-        <item>Google Now</item>
-        <item>Expand status bar</item>
-        <item>Expand settings panel</item>
-        <item>Kill current app</item>
-        <item>Take screenshot</item>
-        <item>Toggle flashlight</item>
-        <item>Music - Play/Pause</item>
-        <item>Music - Prev</item>
-        <item>Music - Next</item>
-        <item>Screen off</item>
-        <item>Custom app</item>
-        <item>Unlock</item>
+        <item>없음</item>
+        <item>최근 앱</item>
+        <item>메뉴 버튼</item>
+        <item>다시 시작 메뉴</item>
+        <item>전원 메뉴</item>
+        <item>검색 버튼</item>
+        <item>검색 버튼(길게 누름)</item>
+        <item>구글 나우</item>
+        <item>상태바 열기</item>
+        <item>빠른 설정 열기</item>
+        <item>앱 종료</item>
+        <item>스크린샷</item>
+        <item>손전등</item>
+        <item>음악 - 재생/정지</item>
+        <item>음악 - 이전곡</item>
+        <item>음악 - 다음곡</item>
+        <item>화면 끄기</item>
+        <item>사용자 앱 실행</item>
+        <item>잠금 해제</item>
     </string-array>
     <string-array name="longpress_buttons_ls_values">
         <item>0</item>
@@ -284,24 +284,24 @@
         <item>18</item>
     </string-array>
     <string-array name="longpress_buttons_entries">
-        <item>None</item>
-        <item>Recent apps</item>
-        <item>Menu button</item>
-        <item>Reboot dialog</item>
-        <item>Power dialog</item>
-        <item>Search button</item>
-        <item>Longpress search</item>
-        <item>Google Now</item>
-        <item>Expand status bar</item>
-        <item>Expand settings panel</item>
-        <item>Kill current app</item>
-        <item>Take screenshot</item>
-        <item>Toggle flashlight</item>
-        <item>Music - Play/Pause</item>
-        <item>Music - Prev</item>
-        <item>Music - Next</item>
-        <item>Screen off</item>
-        <item>Custom app</item>
+        <item>없음</item>
+        <item>최근 앱</item>
+        <item>메뉴 버튼</item>
+        <item>다시 시작 메뉴</item>
+        <item>전원 메뉴</item>
+        <item>검색 버튼</item>
+        <item>검색 버튼(길게 누름)</item>
+        <item>구글 나우</item>
+        <item>상태바 열기</item>
+        <item>빠른 설정 열기</item>
+        <item>앱 종료</item>
+        <item>스크린샷</item>
+        <item>손전등</item>
+        <item>음악 - 재생/정지</item>
+        <item>음악 - 이전곡</item>
+        <item>음악 - 다음곡</item>
+        <item>화면 끄기</item>
+        <item>사용자 앱 실행</item>
     </string-array>
     <string-array name="longpress_buttons_values">
         <item>0</item>
@@ -324,12 +324,12 @@
         <item>4</item>
     </string-array>
     <string-array name="animations_entries">
-        <item>Default</item>
-        <item>Flip</item>
-        <item>Fold</item>
-        <item>FlyIn</item>
-        <item>Bounce</item>
-        <item>Android 4.3</item>
+        <item>기본</item>
+        <item>플립</item>
+        <item>접기</item>
+        <item>플라이인</item>
+        <item>바운스</item>
+        <item>안드로이드 4.3</item>
     </string-array>
     <string-array name="animations_values">
         <item>0</item>
@@ -340,9 +340,9 @@
         <item>5</item>
     </string-array>
     <string-array name="longress_home_ls_entries">
-        <item>None</item>
-        <item>Toggle flashlight</item>
-        <item>Custom app</item>
+        <item>없음</item>
+        <item>손전등</item>
+        <item>사용자 앱 실행</item>
     </string-array>
     <string-array name="longress_home_ls_values">
         <item>0</item>
@@ -350,11 +350,11 @@
         <item>4</item>
     </string-array>
     <string-array name="longpress_timeout_entries">
-        <item>Very short</item>
-        <item>Short</item>
-        <item>Normal</item>
-        <item>Long</item>
-        <item>Very long</item>
+        <item>매우 짧음</item>
+        <item>짧음</item>
+        <item>기본</item>
+        <item>김</item>
+        <item>매우 김</item>
     </string-array>
     <string-array name="longpress_timeout_values">
         <item>100</item>
@@ -364,17 +364,17 @@
         <item>1000</item>
     </string-array>
     <string-array name="sweep_wake_entries_elite">
-        <item>Enable</item>
-        <item>Disable</item>
+        <item>사용함</item>
+        <item>사용안함</item>
     </string-array>
     <string-array name="sweep_wake_values_elite">
         <item>1</item>
         <item>0</item>
     </string-array>
     <string-array name="sweep_wake_entries">
-        <item>Enable</item>
-        <item>Enable(no buttons backlight)</item>
-        <item>Disable</item>
+        <item>사용함</item>
+        <item>사용함(백라이트 없음)</item>
+        <item>사용안함</item>
     </string-array>
     <string-array name="sweep_wake_values">
         <item>1</item>
@@ -382,9 +382,9 @@
         <item>0</item>
     </string-array>
     <string-array name="lockscreen_orientation_entries">
-        <item>Portrait only</item>
-        <item>Landscape only</item>
-        <item>Automatic</item>
+        <item>세로만</item>
+        <item>가로만</item>
+        <item>자동</item>
     </string-array>
     <string-array name="lockscreen_orientation_values">
         <item>1</item>
@@ -392,15 +392,15 @@
         <item>2</item>
     </string-array>
     <string-array name="clock_widget_apps">
-        <item>Custom clock app</item>
-        <item>Custom weather app</item>
-        <item>Transparent background</item>
-        <item>Use color weather icons</item>
+        <item>사용자 시계 앱</item>
+        <item>사용자 날씨 앱</item>
+        <item>투명 배경</item>
+        <item>색깔 날씨 아이콘 사용</item>
     </string-array>
     <string-array name="keyboard_arrows_entries">
-        <item>Show</item>
-        <item>Hide only in portrait</item>
-        <item>Hide</item>
+        <item>보여줌</item>
+        <item>세로일때만 숨김</item>
+        <item>숨김</item>
     </string-array>
     <string-array name="keyboard_arrows_values">
         <item>0</item>
@@ -408,25 +408,25 @@
         <item>2</item>
     </string-array>
     <string-array name="unlock_buttons_entries">
-        <item>Back</item>
-        <item>Home</item>
-        <item>Recent</item>
+        <item>뒤로 가기</item>
+        <item>홈</item>
+        <item>최근 앱</item>
     </string-array>
     <string-array name="unlock_4buttons_entries">
-        <item>Back</item>
-        <item>Home</item>
-        <item>Menu</item>
-        <item>Search</item>
+        <item>뒤로 가기</item>
+        <item>홈</item>
+        <item>메뉴</item>
+        <item>검색</item>
     </string-array>
     <string-array name="extended_statusbartext_entries">
-        <item>Disabled</item>
-        <item>WiFi status</item>
-        <item>Battery status</item>
-        <item>RAM info</item>
-        <item>SDCard space</item>
-        <item>CPU profile</item>
-        <item>CPU usage</item>
-        <item>CPU frequency</item>
+        <item>없음</item>
+        <item>WiFi 상태</item>
+        <item>배터리 상태</item>
+        <item>RAM 사용량</item>
+        <item>SD카드 남은 공간</item>
+        <item>CPU 프로필</item>
+        <item>CPU 사용량</item>
+        <item>CPU 클럭</item>
     </string-array>
     <string-array name="extended_statusbartext_values">
         <item>0</item>
@@ -439,9 +439,9 @@
         <item>7</item>
     </string-array>
     <string-array name="use_media_entries">
-        <item>Dont use</item>
-        <item>Prev/Next Track</item>
-        <item>Play-Pause/Next Track</item>
+        <item>사용안함</item>
+        <item>이전/다음곡</item>
+        <item>재생-정지/다음곡</item>
     </string-array>
     <string-array name="use_media_values">
         <item>0</item>
@@ -476,9 +476,9 @@
         <item>6144</item>
     </string-array>
     <string-array name="clock_style_entries">
-        <item>Hide</item>
-        <item>Normal</item>
-        <item>Center</item>
+        <item>숨김</item>
+        <item>기본</item>
+        <item>중앙</item>
     </string-array>
     <string-array name="clock_style_values">
         <item>0</item>
@@ -486,9 +486,9 @@
         <item>2</item>
     </string-array>
     <string-array name="headerclock_style_entries">
-        <item>Normal</item>
-        <item>Analog</item>
-        <item>Hide</item>
+        <item>일반</item>
+        <item>아날로그</item>
+        <item>숨김</item>
     </string-array>
     <string-array name="headerclock_style_values">
         <item>1</item>
@@ -496,9 +496,9 @@
         <item>0</item>
     </string-array>
     <string-array name="clock_ampm_entries">
-        <item>Hide</item>
-        <item>Normal</item>
-        <item>Small</item>
+        <item>숨김</item>
+        <item>기본</item>
+        <item>작음</item>
     </string-array>
     <string-array name="clock_ampm_values">
         <item>2</item>
@@ -506,18 +506,18 @@
         <item>1</item>
     </string-array>
     <string-array name="pref_overscrollcolor_entries">
-        <item>None</item>
-        <item>Green</item>
-        <item>Red</item>
-        <item>Blue</item>
-        <item>Yellow</item>
-        <item>Orange</item>
-        <item>Cyan</item>
-        <item>Pink</item>
-        <item>Purple</item>
-        <item>Black</item>
-        <item>Grey</item>
-        <item>White</item>
+        <item>없음</item>
+        <item>초록</item>
+        <item>빨강</item>
+        <item>파랑</item>
+        <item>노랑</item>
+        <item>주황</item>
+        <item>청록</item>
+        <item>분홍</item>
+        <item>보라</item>
+        <item>검정</item>
+        <item>회색</item>
+        <item>하양</item>
     </string-array>
     <string-array name="pref_overscrollcolor_values">
         <item>-1</item>
@@ -534,10 +534,10 @@
         <item>10</item>
     </string-array>
     <string-array name="battery_text_display_entries">
-        <item>Regular %</item>
-        <item>Small %</item>
-        <item>No %</item>
-        <item>Hide Text</item>
+        <item>중간 %</item>
+        <item>작은 %</item>
+        <item>% 없음</item>
+        <item>숨김</item>
     </string-array>
     <string-array name="battery_text_display_values">
         <item>1</item>
@@ -546,7 +546,7 @@
         <item>2</item>
     </string-array>
     <string-array name="pref_overscroll_effect_entries">
-        <item>None</item>
+        <item>없음</item>
         <item>Edge Glow</item>
         <item>Bounce and Glow</item>
         <item>Bounce</item>
@@ -584,27 +584,27 @@
     </string-array>
     <string-array name="quick_settings_entries">
         <item>User Avatar</item>
-        <item>Tweaks</item>
-        <item>Volume</item>
-        <item>Auto screen off</item>
-        <item>Auto Brightness</item>
-        <item>Flashlight</item>
-        <item>Rotation</item>
-        <item>Airplane Mode</item>
-        <item>WiFi</item>
-        <item>Mobile Network</item>
-        <item>Network mode</item>
-        <item>WiFi Hotspot</item>
-        <item>AutoSync</item>
+        <item>트윅</item>
+        <item>볼륨</item>
+        <item>절전모드</item>
+        <item>자동밝기</item>
+        <item>손전등</item>
+        <item>자동회전</item>
+        <item>비행기모드</item>
+        <item>Wi-Fi</item>
+        <item>데이터</item>
+        <item>네트워크</item>
+        <item>핫스팟</item>
+        <item>동기화</item>
         <item>Bluetooth</item>
         <item>GPS</item>
-        <item>Silent Mode</item>
-        <item>Vibrate Mode</item>
-        <item>Wireless ADB</item>
-        <item>Task Manager</item>
-        <item>Sony xLoud</item>
-        <item>Reboot</item>
-        <item>Power Saver</item>
+        <item>무음</item>
+        <item>진동</item>
+        <item>무선 ADB</item>
+        <item>작업관리자</item>
+        <item>소니 xLOUD</item>
+        <item>다시 시작</item>
+        <item>전원 절약기</item>
         <item>NFC</item>
     </string-array>
     <string-array name="quick_settings_ids">
@@ -633,32 +633,32 @@
         <item>NFC</item>
     </string-array>
     <string-array name="hide_lockscreen_date_entries">
-        <item>Hide date</item>
-        <item>Hide time</item>
-        <item>Hide AM/PM</item>
-        <item>Hide next alarm</item>
+        <item>날짜 숨기기</item>
+        <item>시간 숨기기</item>
+        <item>오전/오후 숨기기</item>
+        <item>다음 알람 숨기기</item>
     </string-array>
     <string-array name="hide_lockscreen_shortcuts_entries">
-        <item>Hide labels</item>
+        <item>문구 숨기기</item>
         <item>Hide bubles</item>
     </string-array>
     <string-array name="hide_noti_entries">
-        <item>Alarm Icon</item>
-        <item>GPS Icon</item>
-        <item>Headset Icon</item>
-        <item>Volume Icons</item>
-        <item>WiFi Icon</item>
-        <item>Bluetooth Icon</item>
-        <item>ADB Icon</item>
-        <item>Signal Icon</item>
-        <item>Data Icon</item>
-        <item>Keyboard Icon</item>
+        <item>알람 아이콘</item>
+        <item>GPS 아이콘</item>
+        <item>헤드셋 아이콘</item>
+        <item>볼륨 아이콘</item>
+        <item>Wi-Fi 아이콘</item>
+        <item>Bluetooth 아이콘</item>
+        <item>ADB 아이콘</item>
+        <item>시그널 아이콘</item>
+        <item>데이터 아이콘</item>
+        <item>키보드 아이콘</item>
     </string-array>
     <string-array name="autobrightness_entries">
-        <item>Normal</item>
-        <item>Lower</item>
-        <item>Lowest</item>
-        <item>Manual</item>
+        <item>기본</item>
+        <item>낮음</item>
+        <item>매우 낮음</item>
+        <item>매뉴얼</item>
     </string-array>
     <string-array name="autobrightness_values">
         <item>0</item>
@@ -667,27 +667,27 @@
         <item>3</item>
     </string-array>
     <string-array name="show_apm_items">
-        <item>Restart</item>
-        <item>Screenshot</item>
-        <item>Airplane mode</item>
-        <item>Mobile data</item>
-        <item>Sound control</item>
+        <item>다시 시작</item>
+        <item>스크린샷</item>
+        <item>비행기 모드</item>
+        <item>데이터</item>
+        <item>소리 조절</item>
     </string-array>
     <string-array name="recentapps_style_entries">
-        <item>Default (Sense UI)</item>
-        <item>Android 4.2 (AOSP)</item>
+        <item>기본 (센스 UI)</item>
+        <item>안드로이드 4.2 (AOSP)</item>
     </string-array>
     <string-array name="recentapps_style_values">
         <item>1</item>
         <item>0</item>
     </string-array>
     <string-array name="pref_capacitive_backlight_entries">
-        <item>Default</item>
-        <item>Dim</item>
-        <item>Automatic</item>
-        <item>Always off</item>
-        <item>Always on, Full</item>
-        <item>Always on, Dim</item>
+        <item>기본</item>
+        <item>어두움</item>
+        <item>자동</item>
+        <item>항상 꺼짐</item>
+        <item>항상 켜짐, 밝음</item>
+        <item>항상 켜짐, 어두움</item>
     </string-array>
     <string-array name="capacitive_backlight_values">
         <item></item>
@@ -698,18 +698,18 @@
         <item>100,100,100,100,100,100,100,100,100,-1</item>
     </string-array>
     <string-array name="gestures_entries">
-        <item>None</item>
-        <item>Medialink HD default</item>
-        <item>Custom app</item>
-        <item>Recent apps</item>
-        <item>Go to prev app</item>
-        <item>Go to home</item>
-        <item>Kill current app</item>
-        <item>Play/Pause</item>
-        <item>Next track</item>
-        <item>Prev track</item>
-        <item>Expand notification area</item>
-        <item>Expand settings panel</item>
+        <item>없음</item>
+        <item>Medialink HD 기본</item>
+        <item>사용자 앱</item>
+        <item>최근 앱</item>
+        <item>이전 앱으로 가기</item>
+        <item>홈으로 가기</item>
+        <item>앱 종료</item>
+        <item>재생/정지</item>
+        <item>다음 곡</item>
+        <item>이전 곡</item>
+        <item>상태바 열기</item>
+        <item>빠른 설정 열기</item>
     </string-array>
     <string-array name="gestures_values">
         <item>0</item>
@@ -726,13 +726,13 @@
         <item>11</item>
     </string-array>
     <string-array name="gesture_button_entries">
-        <item>None</item>
-        <item>Custom app</item>
-        <item>Recent apps</item>
-        <item>Play/Pause</item>
-        <item>Next track</item>
-        <item>Prev track</item>
-        <item>Expand notification area</item>
+        <item>없음</item>
+        <item>사용자 앱</item>
+        <item>최근 앱</item>
+        <item>재생/정지</item>
+        <item>다음 곡</item>
+        <item>이전 곡</item>
+        <item>상태바 열기</item>
     </string-array>
     <string-array name="gesture_button_values">
         <item>0</item>
@@ -744,11 +744,11 @@
         <item>9</item>
     </string-array>
     <string-array name="minfree_entries">
-        <item>Stock</item>
-        <item>Multitasking</item>
-        <item>Multitasking Xtreme</item>
-        <item>Multitasking Ultimate</item>
-        <item>Manual</item>
+        <item>기본</item>
+        <item>멀티태스킹</item>
+        <item>최고의 멀티태스킹</item>
+        <item>극강의 멀티태스킹</item>
+        <item>매뉴얼</item>
     </string-array>
     <string-array name="minfree_values">
         <item>0</item>
@@ -764,31 +764,31 @@
         <item>2</item>
     </string-array>
     <string-array name="anim_strings">
-        <item>Normal</item>
-        <item>Accelerate and Decelerate</item>
-        <item>Decelerate</item>
-        <item>Accelerate</item>
+        <item>기본</item>
+        <item>빨라졌다 느려짐</item>
+        <item>느려짐</item>
+        <item>빨라짐</item>
     </string-array>
     <string-array name="pulse_values">
         <item>1</item>
         <item>0</item>
     </string-array>
     <string-array name="pulse_strings">
-        <item>Pulse Up and Down</item>
-        <item>Standard</item>
+        <item>왕복</item>
+        <item>기본</item>
     </string-array>
     <string-array name="allowed_rotations_items">
-        <item>90 degrees</item>
-        <item>180 degrees</item>
-        <item>270 degrees</item>
+        <item>90 도</item>
+        <item>180 도</item>
+        <item>270 도</item>
     </string-array>
     <string-array name="led_flash_duration_entries">
-        <item>1 min</item>
-        <item>3 min</item>
-        <item>5 min</item>
-        <item>10 min</item>
-        <item>15 min</item>
-        <item>30 min</item>
+        <item>1분</item>
+        <item>3분</item>
+        <item>5분</item>
+        <item>10분</item>
+        <item>15분</item>
+        <item>30분</item>
     </string-array>
     <string-array name="led_flash_duration_values">
         <item>1</item>
@@ -799,15 +799,15 @@
         <item>30</item>
     </string-array>
     <string-array name="blinkfeed_autosync_interval_entries">
-        <item>5 min</item>
-        <item>10 min</item>
-        <item>20 min</item>
-        <item>30 min</item>
-        <item>1 hour</item>
-        <item>3 hour</item>
-        <item>6 hour</item>
-        <item>12 hour</item>
-        <item>1 day</item>
+        <item>5분</item>
+        <item>10분</item>
+        <item>20분</item>
+        <item>30분</item>
+        <item>1시간</item>
+        <item>3시간</item>
+        <item>6시간</item>
+        <item>12시간</item>
+        <item>1일</item>
     </string-array>
     <string-array name="blinkfeed_autosync_interval_values">
         <item>5</item>
@@ -821,10 +821,10 @@
         <item>1440</item>
     </string-array>
     <string-array name="pulldown_gestures_entries">
-        <item>Custom App</item>
-        <item>Recent Apps</item>
-        <item>Flashlight</item>
-        <item>Screen off</item>
+        <item>사용자 앱</item>
+        <item>최근 앱</item>
+        <item>손전등</item>
+        <item>화면 끄기</item>
     </string-array>
     <string-array name="navbar_type">
         <item>Stock/From theme</item>
@@ -841,12 +841,12 @@
         <item>Collection</item>
     </string-array>
     <string-array name="sense_anim_entries">
-        <item>Default</item>
-        <item>Fade in</item>
-        <item>Slide down</item>
-        <item>Slide left</item>
-        <item>Slide right</item>
-        <item>Slide up</item>
+        <item>기본</item>
+        <item>페이드 인</item>
+        <item>아래로 슬라이드</item>
+        <item>왼쪽으로 슬라이드</item>
+        <item>오른쪽으로 슬라이드</item>
+        <item>위로 슬라이드</item>
     </string-array>
     <string-array name="sense_anim_values">
         <item>0</item>
@@ -867,12 +867,12 @@
         <item>2</item>
     </string-array>
     <string-array name="prism_indicator_entries">
-        <item>Disable</item>
-        <item>Slider above navbar</item>
-        <item>Slider at bottom</item>
-        <item>Slider at top</item>
-        <item>Dots at bootom</item>
-        <item>Dots at top</item>
+        <item>사용안함</item>
+        <item>슬라이더 (독바 위)</item>
+        <item>슬라이더 (아래)</item>
+        <item>슬라이더 (위)</item>
+        <item>점 (아래)</item>
+        <item>점 (위)</item>
     </string-array>
     <string-array name="prism_indicator_values">
         <item>2</item>
@@ -883,10 +883,10 @@
         <item>4</item>
     </string-array>
     <string-array name="folder_style_entries">
-        <item>Grid 2x2</item>
-        <item>Stack</item>
-        <item>Fan</item>
-        <item>Grid 3x3</item>
+        <item>격자 2x2</item>
+        <item>스택</item>
+        <item>팬</item>
+        <item>격자 3x3</item>
     </string-array>
     <string-array name="folder_style_values">
         <item>0</item>
