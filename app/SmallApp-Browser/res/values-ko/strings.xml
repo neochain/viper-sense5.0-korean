@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">소형 인터넷</string>
+    <string name="app_name_canonical">인터넷</string>
+    <string name="no_name">이름 없음</string>
+    <string name="no_items">항목 없음</string>
+    <string name="title">인터넷</string>
+    <string name="setting_title">브라우저 설정</string>
+    <string name="setting_webview_title">브라우저 설정</string>
+    <string name="setting_small_app_title">작은앱 설정</string>
+    <string name="setting_bookmarks_title">북마크 설정</string>
+    <string name="setting_how_to_title">어떻게 사용하나요?</string>
+    <string name="bookmark_custom_title">사용자 북마크 사용</string>
+    <string name="bookmark_default_title">기본 북마크 사용</string>
+    <string name="bookmark_import_title">기본 브라우저 북마크</string>
+    <string name="database_util_title">북마크 도구</string>
+    <string name="import_bookmark">백업한 북마크 가져오기</string>
+    <string name="import_bookmark_from_default">기본 북마크 가져오기</string>
+    <string name="export_bookmark">북마크 내보내기</string>
+    <string name="backup_bookmark">북마크 백업</string>
+    <string name="restore_bookmark">북마크 복원</string>
+    <string name="deleteAll_bookmark">모든 북마크 지우기</string>
+    <string name="delete_bookmark_message">정말 삭제하시겠어요?</string>
+    <string name="insert_bookmark_confirmed_message">추가됨</string>
+    <string name="delete_bookmark_confirmed_message">삭제됨</string>
+    <string name="exists_bookmark_confirmed_message">존재함</string>
+    <string name="backup_bookmark_confirmed_message">백업이 완료되었습니다</string>
+    <string name="restore_bookmark_confirmed_message">복원이 완료되었습니다</string>
+    <string name="home_url">기본 URL</string>
+    <string name="get_url">현재 URL 사용</string>
+    <string name="set_url_default">기본 URL 설정</string>
+    <string name="can_save_url">끝날때 URL 저장</string>
+    <string name="is_show_always_url_bar">항상 검색바 보여줌</string>
+    <string name="default_size_rate">Default View Size</string>
+    <string name="resize_option">Resize Option</string>
+    <string name="resize_option1">Resize(Def&lt;->Max)</string>
+    <string name="resize_option2">Resize(Def->Max->Min->)</string>
+    <string name="load_image_disable">사진 표시 안 함</string>
+    <string name="hardware_acceleration">하드웨어 가속</string>
+    <string name="hardware_acceleration_desc">"하드웨어 가속을 사용하면
+앱이 더 부드러워집니다!
+그리고 유튜브 앱으로 영화도 볼수 있지요.
+그러나 알파에서는 설정이 불가능합니다."</string>
+    <string name="clear_cache">캐쉬 지우기</string>
+    <string name="url_error">이상한 URL</string>
+    <string name="clear">지우기</string>
+    <string name="get">GET</string>
+    <string name="not_found_app">앱을 찾을 수 없습니다. 이 URL을 엽니다</string>
+    <string name="saved_url">저장됨</string>
+    <string name="http_hint">URL을 입력하거나 검색하세요</string>
+    <string name="google">https://www.google.com/</string>
+    <string name="google_search">m/search?hl=en&amp;q=</string>
+    <string name="share">공유하기</string>
+    <string name="on_browser">브라우저로 열기</string>
+    <string name="bookmark_list">북마크 항목</string>
+    <string name="open_bookmark">북마크 열기</string>
+    <string name="close_bookmark">북마크 닫기</string>
+    <string name="set_bookmark">북마크 설정</string>
+    <string name="save_capture">캡쳐하기</string>
+    <string name="open_capture">"Capture's URL on Browser"</string>
+    <string name="save_capture_error">캡쳐에 실패했습니다</string>
+    <string name="hw_acc_attention">앱을 다시 실행해주세요</string>
+    <string name="default_language">기본 언어 사용(영어)</string>
+    <string name="reset_language">언어 설정 초기화</string>
+    <string name="window_size">창 크기 ×</string>
+</resources>

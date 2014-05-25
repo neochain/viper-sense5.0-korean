@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">비디오</string>
+    <string name="app_name_bz">비디오</string>
+    <string name="app_name_tb">비디오</string>
+    <string name="app_name_canonical">비디오</string>
+    <string name="title">비디오</string>
+    <string name="menu_settings">설정</string>
+    <string name="video_list">동영상 리스트</string>
+    <string name="no_items">항목 없음</string>
+    <string name="not_found_app">앱을 찾을 수 없습니다. 이 URL을 엽니다</string>
+    <string name="youtube">https://m.youtube.com</string>
+</resources>

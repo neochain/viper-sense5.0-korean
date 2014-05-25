@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">음향 효과</string>
+    <string name="effects">효과</string>
+    <string name="eqalizer">이퀄라이저</string>
+    <string name="headphones">헤드폰</string>
+    <string name="speaker">스피커</string>
+    <string name="lpa">Low Power Audio</string>
+    <string name="lpa_summary">"소프트웨어 효과를 작동하기 위해서는, LPA (Low power audio)는 반드시 꺼져 있어야 합니다. 이 경우 음악을 듣는 중 배터리를 더 빨리 소모할 수도 있습니다."</string>
+    <string name="xloud">xLoud</string>
+    <string name="clearaudio">ClearPhase</string>
+    <string name="custom_title">새 이퀄라이저</string>
+    <string name="bluetooth">Bluetooth</string>
+</resources>

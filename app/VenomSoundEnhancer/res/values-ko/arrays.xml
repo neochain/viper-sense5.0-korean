@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="presets_names">
+        <item>클래식</item>
+        <item>저음 강조</item>
+        <item>보컬</item>
+        <item>고음 강조</item>
+        <item>라이브</item>
+        <item>댄스</item>
+        <item>온기</item>
+        <item>스위트너</item>
+        <item>블루스</item>
+        <item>컨트리</item>
+        <item>재즈</item>
+        <item>라틴</item>
+        <item>뉴 에이지</item>
+        <item>피아노</item>
+        <item>팝</item>
+        <item>알앤비</item>
+        <item>락</item>
+    </string-array>
+    <string-array name="presets_ids">
+        <item>805</item>
+        <item>801</item>
+        <item>803</item>
+        <item>802</item>
+        <item>814</item>
+        <item>815</item>
+        <item>816</item>
+        <item>817</item>
+        <item>804</item>
+        <item>806</item>
+        <item>807</item>
+        <item>808</item>
+        <item>809</item>
+        <item>810</item>
+        <item>811</item>
+        <item>812</item>
+        <item>813</item>
+    </string-array>
+    <string-array name="headset_names">
+        <item>Beats urBeats</item>
+        <item>Beats Solo</item>
+        <item>Beats urBeats v2</item>
+        <item>Beats Solo v2</item>
+        <item>HTC 인-이어</item>
+        <item>기타</item>
+    </string-array>
+    <string-array name="headset_icons">
+        <item>headset_urbeats</item>
+        <item>headset_beats_solo</item>
+        <item>headset_urbeats2</item>
+        <item>headset_beats_solo</item>
+        <item>headset_other</item>
+        <item>headset_other</item>
+    </string-array>
+    <string-array name="headset_ids">
+        <item>1000</item>
+        <item>1001</item>
+        <item>1004</item>
+        <item>1005</item>
+        <item>1007</item>
+        <item>1010</item>
+    </string-array>
+    <string-array name="effects_names">
+        <item>Beats Audio</item>
+        <item>SRS</item>
+        <item>Dolby</item>
+        <item>영화</item>
+        <item>목소리</item>
+        <item>이퀄라이저</item>
+    </string-array>
+    <string-array name="effects_icons">
+        <item>icon_launcher_beats_red</item>
+        <item>icon_launcher_srs</item>
+        <item>icon_launcher_dolby</item>
+        <item>icon_launcher_movie</item>
+        <item>icon_launcher_speaker</item>
+        <item>icon_launcher_equalizer</item>
+    </string-array>
+    <string-array name="effects_ids">
+        <item>900</item>
+        <item>2</item>
+        <item>3</item>
+        <item>821</item>
+        <item>820</item>
+    </string-array>
+</resources>

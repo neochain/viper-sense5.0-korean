@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_sort">
+        <item>사용자 지정</item>
+        <item>사전 순서정렬</item>
+        <item>가장 최근</item>
+    </string-array>
+    <string-array name="apps_grid_option">
+        <item>3 × 4</item>
+        <item>4 × 5</item>
+    </string-array>
+    <string-array name="default_folder_names_original">
+        <item>Media</item>
+        <item>Google</item>
+        <item>Dev tools</item>
+        <item>Productivity</item>
+        <item>Tools</item>
+    </string-array>
+    <string-array name="default_folder_names_translated">
+        <item>미디어</item>
+        <item>Google</item>
+        <item>Dev tools</item>
+        <item>생산성</item>
+        <item>도구</item>
+    </string-array>
+    <string-array name="widget_migration_tips">
+        <item>Friend Stream을 Sense 5에 사용할 수 없지만, 대신 BlinkFeed를 사용하여 소셜 업데이트를 초기 화면에 스트리밍할 수 있습니다. 지금 설정하려면 누릅니다.</item>
+        <item>이 위젯은 Sense 5에 사용할 수 없지만 여전히 응용 프로그램으로 사용할 수 있습니다. 모든 응용 프로그램 보기에서 찾을 수 있습니다.</item>
+        <item>무언가 달라 보입니까? 알아보아 주셔서 감사합니다! 위젯이 Sense 5에 대해 새로 디자인되었습니다.</item>
+    </string-array>
+</resources>

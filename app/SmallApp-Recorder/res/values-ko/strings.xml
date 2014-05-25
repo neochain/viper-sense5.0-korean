@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rec_app_name">녹음기</string>
+    <string name="rec_end_notification">음성 메모가 My documents/My recordings에 저장되었습니다</string>
+    <string name="rec_end_notification_notes_unavailable">음성 메모가 저장되었습니다</string>
+    <string name="rec_sdcard_not_mounted">저장소가 마운트되지 않았습니다</string>
+    <string name="rec_recording_error">녹음 할 수가 없어요!</string>
+    <string name="rec_memory_full_error">메모리가 꽉찼네요</string>
+    <string name="rec_cannot_create_file">파일을 만들 수 없습니다!</string>
+    <string name="rec_tap_to_record">"여기를 눌러
+녹음하세요"</string>
+    <string name="rec_recording">녹음중…</string>
+    <string name="rec_00_00">00:00</string>
+    <string name="cannot_access_smallapp_toast">작은 앱이 불가능합니다. 녹음기를 켜주세요.</string>
+</resources>

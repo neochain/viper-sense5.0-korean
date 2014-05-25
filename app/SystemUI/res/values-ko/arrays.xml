@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="volume_quick_settings">
+        <item>통화 볼륨</item>
+        <item>시스템 볼륨</item>
+        <item>벨소리 볼륨</item>
+        <item>미디어 볼륨</item>
+        <item>알람 볼륨</item>
+        <item>알림 볼륨</item>
+        <item>블루투스 볼륨</item>
+    </string-array>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="position_entries">
+        <item>오른쪽</item>
+        <item>왼쪽</item>
+        <item>아래</item>
+    </string-array>
+    <string-array name="position_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="quick_settings_entries">
+        <item>볼륨</item>
+        <item>절전 모드</item>
+        <item>자동 밝기</item>
+        <item>플래시</item>
+        <item>자동회전</item>
+        <item>비행 모드</item>
+        <item>Wi-Fi</item>
+        <item>데이터</item>
+        <item>네트워크</item>
+        <item>핫스팟</item>
+        <item>동기화</item>
+        <item>블루투스</item>
+        <item>GPS</item>
+        <item>무음</item>
+        <item>진동</item>
+        <item>무선 ADB</item>
+        <item>소니 xLOUD</item>
+        <item>전원 절약기</item>
+        <item>NFC</item>
+    </string-array>
+    <string-array name="quick_settings_ids">
+        <item>Volume</item>
+        <item>ScreenOn</item>
+        <item>Brightness</item>
+        <item>Flashlight</item>
+        <item>Rotation</item>
+        <item>Airplane</item>
+        <item>Wifi</item>
+        <item>MobileNetwork</item>
+        <item>NetworkMode</item>
+        <item>HotSpot</item>
+        <item>AutoSync</item>
+        <item>Bluetooth</item>
+        <item>GPS</item>
+        <item>SilentMode</item>
+        <item>VibrationMode</item>
+        <item>ADB</item>
+        <item>XLoud</item>
+        <item>PowerSaver</item>
+        <item>NFC</item>
+    </string-array>
+</resources>

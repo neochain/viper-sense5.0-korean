@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">앱 설치 관리자</string>
+    <string name="title">애플리케이션 설치</string>
+    <string name="btn_back">뒤로</string>
+    <string name="btn_forward">다음</string>
+    <string name="btn_install">설치</string>
+    <string name="btn_exit">취소</string>
+    <string name="msg_scan">SD카드를 검사할때까지 기다려주세요...</string>
+    <string name="msg_installing">선택한 애플리케이션을 설치중입니다...</string>
+    <string name="exit">나가기</string>
+    <string name="nothing_toinstall">설치할 애플리케이션을 선택해주세요</string>
+    <string name="dialog_error">오류</string>
+    <string name="install_complete">설치 완료</string>
+    <string name="installed_apps">%1$d개의 애플리케이션을 설치하였습니다</string>
+    <string name="btn_start_scan">검색 시작</string>
+    <string name="btn_skip">뛰어넘기</string>
+    <string name="install_apps_request">애플리케이션 설치</string>
+    <string name="install_apps_request_body">휴대전화가 앱을 검색할 수 있도록 허용하시겠습니까?</string>
+</resources>

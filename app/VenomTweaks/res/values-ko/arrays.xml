@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="developers">
+        <item>X+|developers_viperxplus|2122390</item>
+        <item>S|developers_vipers|2216858</item>
+        <item>4G|developers_viper4g|2124391</item>
+        <item>DNA|developers_viperdna|2105745</item>
+        <item>LTE|developers_viperlte|1891202</item>
+        <item>OneS|developers_viperones|36872003</item>
+        <item>XL|developers_viperxl|1868236</item>
+        <item>XL+|developers_viperxl|2098218</item>
+        <item>X|developers_viperx|2087443</item>
+        <item>C2|developers_viperc2|000000</item>
+    </string-array>
+    <string-array name="developers_viperx">
+        <item>m0narX|1016148|ViperS/X+ ROM owner and developer</item>
+        <item>shnizlon|1930589|ViperS/X+ ROM Co owner and developer</item>
+        <item>iximages|4213391|Lead graphic designer</item>
+        <item>Patrics83|2374587|Scripting teammate</item>
+        <item>fisha21|704359|Theme Graphic designer</item>
+    </string-array>
+    <string-array name="developers_viperxplus">
+        <item>m0narX|1016148|ViperS/X+ ROM owner and developer</item>
+        <item>shnizlon|1930589|ViperS/X+ ROM Co owner and developer</item>
+        <item>ivicask|1792279|ViperS/X+ ROM developer, tester and good man</item>
+        <item>richmondo|763428|One X ROM chef, Sensation teammmate, developer</item>
+    </string-array>
+    <string-array name="developers_vipers">
+        <item>m0narX|1016148|ViperS/X+ ROM 소유자, 개발자</item>
+        <item>ivicask|1792279|ViperS/X+ ROM 개발자, 테스터</item>
+        <item>shnizlon|1930589|ViperS/X+ ROM 공동 소유자, 개발자</item>
+        <item>SebastianFM|2212152|ViperS ROM 공동 소유자, 개발자</item>
+    </string-array>
+    <string-array name="developers_viperc2">
+        <item>m0narX|1016148|ViperS/X+ ROM owner and developer</item>
+        <item>shnizlon|1930589|ViperS/X+ ROM Co owner and developer</item>
+        <item>Dominos|4817003|ViperS/C2 ROM developer</item>
+        <item>ivicask|1792279|ViperS/X+ ROM developer, tester and good man</item>
+    </string-array>
+    <string-array name="developers_viper4g">
+        <item>m0narX|1016148|Team Venom Lead Developer/ViperS/X+ ROM Developer</item>
+        <item>Vinchenzop|2972811|Viper4G Lead Developer/ViperDNA Co Developer</item>
+        <item>-viperboy-|518868|Viper4G Lead Developer</item>
+        <item>smw6180|670396|Performance Tuning/Lead Beta Tester</item>
+        <item>Mayfield103|3740783|Viper4G Lead Themer</item>
+        <item>iknowsquat|1336139|Viper4G Beta Tester</item>
+        <item>EarlyMon|2682748|Viper4G Beta Tester</item>
+        <item>LiquidSolstice|788951|Viper4G Beta Tester</item>
+        <item>Jm@n|4753749|Viper4G Beta Tester</item>
+    </string-array>
+    <string-array name="developers_viperdna">
+        <item>m0narX|1016148|Team Venom Lead Developer/ViperS/X+ ROM Developer</item>
+        <item>Vinchenzop|2972811|ViperDNA Co Developer/Viper4G Lead Developer</item>
+        <item>nitsuj17|2879887|ViperDNA/LTE/WVGA developer</item>
+    </string-array>
+    <string-array name="developers_viperlte">
+        <item>m0narX|1016148|Team Venom Lead Developer/ViperS/X+ ROM Developer</item>
+        <item>nitsuj17|2879887|ViperDNA/LTE/WVGA developer</item>
+    </string-array>
+    <string-array name="developers_viperones">
+        <item>m0narX|1016148|ViperS/X+ ROM owner and developer</item>
+        <item>torxx|2229548|One S ROM developer</item>
+        <item>he_stheone64|1118681|One S ROM developer</item>
+    </string-array>
+    <string-array name="developers_viperxl">
+        <item>m0narX|1016148|Team Venom Lead Developer/ViperS/X+ ROM Developer</item>
+        <item>Turge|1225716|Viper XL/XL+ Lead Developer</item>
+    </string-array>
+    <string-array name="background_type">
+        <item>사진</item>
+        <item>애니메이션</item>
+    </string-array>
+	<string-array name="notify_timeout_entries">
+        <item>5초</item>
+        <item>10초</item>
+        <item>30초</item>
+        <item>1분</item>
+        <item>2분</item>
+        <item>5분</item>
+    </string-array>
+    <string-array name="notify_timeout_values">
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="autobrightness_algo_entries">
+        <item>Standard</item>
+        <item>TPO</item>
+        <item>TPE (기본)</item>
+    </string-array>
+    <string-array name="autobrightness_algo_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+	    <string-array name="ksm_state_current">
+        <item>실행됨  (쌓인 량: %1$.1fMB)</item>
+        <item>일시정지</item>
+        <item>멈춤</item>
+    </string-array>
+    <string-array name="ksm_state_entries">
+        <item>실행</item>
+        <item>일지정지</item>
+        <item>멈춤</item>
+    </string-array>
+    <string-array name="ksm_state_values">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="prism_menu_entries">
+        <item>바탕화면 잠금</item>
+        <item>바탕화면에 추가</item>
+        <item>배경화면</item>
+        <item>응용 프로그램 관리</item>
+        <item>개인설정</item>
+        <item>베놈 HUB</item>
+        <item>베놈 트윅</item>
+        <item>설정</item>
+        <item>전원 메뉴</item>
+        <item>다시 시작</item>
+        <item>알림</item>
+        <item>빠른 설정</item>
+        <item>제스쳐</item>
+        <item>사용자 설정 앱</item>
+    </string-array>
+    <string-array name="prism_menu_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="gpu3d_oc_entries">
+        <item>266 MHz</item>
+        <item>300 MHz</item>
+        <item>320 MHz</item>
+    </string-array>
+    <string-array name="gpu3d_oc_values">
+        <item>266667000</item>
+        <item>300000000</item>
+        <item>320000000</item>
+    </string-array>
+    <string-array name="gpu2d_oc_entries">
+        <item>200 MHz</item>
+        <item>228 MHz</item>
+        <item>266 MHz</item>
+    </string-array>
+    <string-array name="gpu2d_oc_values">
+        <item>200000000</item>
+        <item>228571000</item>
+        <item>266667000</item>
+    </string-array>
+    <string-array name="systemui_volume_entries">
+        <item>기본</item>
+        <item>알림 패널 닫기</item>
+        <item>알림/빠른 설정 이동</item>
+    </string-array>
+    <string-array name="systemui_volume_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="systemui_shake_entries">
+        <item>아무것도 안 함</item>
+        <item>알림 패널 닫기</item>
+        <item>알림/빠른 설정 이동</item>
+    </string-array>
+    <string-array name="systemui_shake_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="nfc_mode_entries">
+        <item>Allow only when screen is on and phone is unlocked</item>
+        <item>Allow when screen is on and phone is locked</item>
+        <item>Allow when screen is off</item>
+        <item>No restrictions</item>
+    </string-array>
+    <string-array name="nfc_mode_values">
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="qs_open_metod_entries">
+        <item>버튼 사용</item>
+        <item>탭 사용</item>
+        <item>헤더를 스와이프</item>
+    </string-array>
+    <string-array name="qs_open_metod_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="qs_style_entries">
+        <item>안드로이드 4.2 (AOSP)</item>
+        <item>HTC 센스</item>
+        <item>사용 안 함</item>
+    </string-array>
+    <string-array name="qs_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="widget_switch_entries">
+        <item>없음</item>
+        <item>빠른 설정/바로가기/숨기기</item>
+        <item>빠른 설정/바로가기</item>
+        <item>빠른 설정/숨기기</item>
+        <item>바로가기/숨기기</item>
+    </string-array>
+    <string-array name="widget_switch_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="lockscreen_ringmode_entries">
+        <item>Default</item>
+        <item>Arc shortcuts</item>
+        <item>Left ring</item>
+        <item>Right ring</item>
+    </string-array>
+    <string-array name="lockscreen_ringmode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="longpress_buttons_ls_entries">
+        <item>None</item>
+        <item>Recent apps</item>
+        <item>Menu button</item>
+        <item>Reboot dialog</item>
+        <item>Power dialog</item>
+        <item>Search button</item>
+        <item>Longpress search</item>
+        <item>Google Now</item>
+        <item>Expand status bar</item>
+        <item>Expand settings panel</item>
+        <item>Kill current app</item>
+        <item>Take screenshot</item>
+        <item>Toggle flashlight</item>
+        <item>Music - Play/Pause</item>
+        <item>Music - Prev</item>
+        <item>Music - Next</item>
+        <item>Screen off</item>
+        <item>Custom app</item>
+        <item>Unlock</item>
+    </string-array>
+    <string-array name="longpress_buttons_ls_values">
+        <item>0</item>
+        <item>1</item>
+        <item>15</item>
+        <item>2</item>
+        <item>13</item>
+        <item>16</item>
+        <item>3</item>
+        <item>14</item>
+        <item>6</item>
+        <item>17</item>
+        <item>7</item>
+        <item>8</item>
+        <item>5</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>12</item>
+        <item>4</item>
+        <item>18</item>
+    </string-array>
+    <string-array name="longpress_buttons_entries">
+        <item>None</item>
+        <item>Recent apps</item>
+        <item>Menu button</item>
+        <item>Reboot dialog</item>
+        <item>Power dialog</item>
+        <item>Search button</item>
+        <item>Longpress search</item>
+        <item>Google Now</item>
+        <item>Expand status bar</item>
+        <item>Expand settings panel</item>
+        <item>Kill current app</item>
+        <item>Take screenshot</item>
+        <item>Toggle flashlight</item>
+        <item>Music - Play/Pause</item>
+        <item>Music - Prev</item>
+        <item>Music - Next</item>
+        <item>Screen off</item>
+        <item>Custom app</item>
+    </string-array>
+    <string-array name="longpress_buttons_values">
+        <item>0</item>
+        <item>1</item>
+        <item>15</item>
+        <item>2</item>
+        <item>13</item>
+        <item>16</item>
+        <item>3</item>
+        <item>14</item>
+        <item>6</item>
+        <item>17</item>
+        <item>7</item>
+        <item>8</item>
+        <item>5</item>
+        <item>11</item>
+        <item>10</item>
+        <item>9</item>
+        <item>12</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="animations_entries">
+        <item>Default</item>
+        <item>Flip</item>
+        <item>Fold</item>
+        <item>FlyIn</item>
+        <item>Bounce</item>
+        <item>Android 4.3</item>
+    </string-array>
+    <string-array name="animations_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="longress_home_ls_entries">
+        <item>None</item>
+        <item>Toggle flashlight</item>
+        <item>Custom app</item>
+    </string-array>
+    <string-array name="longress_home_ls_values">
+        <item>0</item>
+        <item>5</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="longpress_timeout_entries">
+        <item>Very short</item>
+        <item>Short</item>
+        <item>Normal</item>
+        <item>Long</item>
+        <item>Very long</item>
+    </string-array>
+    <string-array name="longpress_timeout_values">
+        <item>100</item>
+        <item>200</item>
+        <item>350</item>
+        <item>500</item>
+        <item>1000</item>
+    </string-array>
+    <string-array name="sweep_wake_entries_elite">
+        <item>Enable</item>
+        <item>Disable</item>
+    </string-array>
+    <string-array name="sweep_wake_values_elite">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="sweep_wake_entries">
+        <item>Enable</item>
+        <item>Enable(no buttons backlight)</item>
+        <item>Disable</item>
+    </string-array>
+    <string-array name="sweep_wake_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="lockscreen_orientation_entries">
+        <item>Portrait only</item>
+        <item>Landscape only</item>
+        <item>Automatic</item>
+    </string-array>
+    <string-array name="lockscreen_orientation_values">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="clock_widget_apps">
+        <item>Custom clock app</item>
+        <item>Custom weather app</item>
+        <item>Transparent background</item>
+        <item>Use color weather icons</item>
+    </string-array>
+    <string-array name="keyboard_arrows_entries">
+        <item>Show</item>
+        <item>Hide only in portrait</item>
+        <item>Hide</item>
+    </string-array>
+    <string-array name="keyboard_arrows_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="unlock_buttons_entries">
+        <item>Back</item>
+        <item>Home</item>
+        <item>Recent</item>
+    </string-array>
+    <string-array name="unlock_4buttons_entries">
+        <item>Back</item>
+        <item>Home</item>
+        <item>Menu</item>
+        <item>Search</item>
+    </string-array>
+    <string-array name="extended_statusbartext_entries">
+        <item>Disabled</item>
+        <item>WiFi status</item>
+        <item>Battery status</item>
+        <item>RAM info</item>
+        <item>SDCard space</item>
+        <item>CPU profile</item>
+        <item>CPU usage</item>
+        <item>CPU frequency</item>
+    </string-array>
+    <string-array name="extended_statusbartext_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="use_media_entries">
+        <item>Dont use</item>
+        <item>Prev/Next Track</item>
+        <item>Play-Pause/Next Track</item>
+    </string-array>
+    <string-array name="use_media_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="h_icon_replace_entries">
+        <item>H</item>
+        <item>4G</item>
+        <item>LTE</item>
+        <item>3G</item>
+        <item>3G+</item>
+        <item>H+</item>
+    </string-array>
+    <string-array name="h_icon_replace_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="read_ahead_entries">
+        <item>128</item>
+        <item>256</item>
+        <item>512</item>
+        <item>1024</item>
+        <item>2048</item>
+        <item>3072</item>
+        <item>4096</item>
+        <item>5120</item>
+        <item>6144</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Hide</item>
+        <item>Normal</item>
+        <item>Center</item>
+    </string-array>
+    <string-array name="clock_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="headerclock_style_entries">
+        <item>Normal</item>
+        <item>Analog</item>
+        <item>Hide</item>
+    </string-array>
+    <string-array name="headerclock_style_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="clock_ampm_entries">
+        <item>Hide</item>
+        <item>Normal</item>
+        <item>Small</item>
+    </string-array>
+    <string-array name="clock_ampm_values">
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="pref_overscrollcolor_entries">
+        <item>None</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Cyan</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Black</item>
+        <item>Grey</item>
+        <item>White</item>
+    </string-array>
+    <string-array name="pref_overscrollcolor_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="battery_text_display_entries">
+        <item>Regular %</item>
+        <item>Small %</item>
+        <item>No %</item>
+        <item>Hide Text</item>
+    </string-array>
+    <string-array name="battery_text_display_values">
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="pref_overscroll_effect_entries">
+        <item>None</item>
+        <item>Edge Glow</item>
+        <item>Bounce and Glow</item>
+        <item>Bounce</item>
+    </string-array>
+    <string-array name="pref_overscroll_effect_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="quick_settings_icons">
+        <item>user</item>
+        <item>eqs_tweaks_icon</item>
+        <item>eqs_sound_settings_icon</item>
+        <item>eqs_screenon_icon</item>
+        <item>eqs_brightness</item>
+        <item>eqs_flash_icon_on</item>
+        <item>eqs_rotation_icon</item>
+        <item>eqs_airplane_icon</item>
+        <item>eqs_wifi_icon</item>
+        <item>eqs_mobile_icon</item>
+        <item>eqs_networkmode</item>
+        <item>eqs_hotspot_icon</item>
+        <item>eqs_sync_icon</item>
+        <item>eqs_bt_icon</item>
+        <item>eqs_gps_icon</item>
+        <item>eqs_silent_icon_on</item>
+        <item>eqs_vibration_icon_on</item>
+        <item>eqs_adb_on</item>
+        <item>eqs_task_icon</item>
+        <item>eqs_xloud</item>
+        <item>eqs_reboot</item>
+        <item>eqs_powersaver</item>
+        <item>eqs_nfc</item>
+    </string-array>
+    <string-array name="quick_settings_entries">
+        <item>User Avatar</item>
+        <item>Tweaks</item>
+        <item>Volume</item>
+        <item>Auto screen off</item>
+        <item>Auto Brightness</item>
+        <item>Flashlight</item>
+        <item>Rotation</item>
+        <item>Airplane Mode</item>
+        <item>WiFi</item>
+        <item>Mobile Network</item>
+        <item>Network mode</item>
+        <item>WiFi Hotspot</item>
+        <item>AutoSync</item>
+        <item>Bluetooth</item>
+        <item>GPS</item>
+        <item>Silent Mode</item>
+        <item>Vibrate Mode</item>
+        <item>Wireless ADB</item>
+        <item>Task Manager</item>
+        <item>Sony xLoud</item>
+        <item>Reboot</item>
+        <item>Power Saver</item>
+        <item>NFC</item>
+    </string-array>
+    <string-array name="quick_settings_ids">
+        <item>User</item>
+        <item>Tweaks</item>
+        <item>Volume</item>
+        <item>ScreenOn</item>
+        <item>Brightness</item>
+        <item>Flashlight</item>
+        <item>Rotation</item>
+        <item>Airplane</item>
+        <item>Wifi</item>
+        <item>MobileNetwork</item>
+        <item>NetworkMode</item>
+        <item>HotSpot</item>
+        <item>AutoSync</item>
+        <item>Bluetooth</item>
+        <item>GPS</item>
+        <item>SilentMode</item>
+        <item>VibrationMode</item>
+        <item>ADB</item>
+        <item>TaskManager</item>
+        <item>XLoud</item>
+        <item>Reboot</item>
+        <item>PowerSaver</item>
+        <item>NFC</item>
+    </string-array>
+    <string-array name="hide_lockscreen_date_entries">
+        <item>Hide date</item>
+        <item>Hide time</item>
+        <item>Hide AM/PM</item>
+        <item>Hide next alarm</item>
+    </string-array>
+    <string-array name="hide_lockscreen_shortcuts_entries">
+        <item>Hide labels</item>
+        <item>Hide bubles</item>
+    </string-array>
+    <string-array name="hide_noti_entries">
+        <item>Alarm Icon</item>
+        <item>GPS Icon</item>
+        <item>Headset Icon</item>
+        <item>Volume Icons</item>
+        <item>WiFi Icon</item>
+        <item>Bluetooth Icon</item>
+        <item>ADB Icon</item>
+        <item>Signal Icon</item>
+        <item>Data Icon</item>
+        <item>Keyboard Icon</item>
+    </string-array>
+    <string-array name="autobrightness_entries">
+        <item>Normal</item>
+        <item>Lower</item>
+        <item>Lowest</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="autobrightness_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="show_apm_items">
+        <item>Restart</item>
+        <item>Screenshot</item>
+        <item>Airplane mode</item>
+        <item>Mobile data</item>
+        <item>Sound control</item>
+    </string-array>
+    <string-array name="recentapps_style_entries">
+        <item>Default (Sense UI)</item>
+        <item>Android 4.2 (AOSP)</item>
+    </string-array>
+    <string-array name="recentapps_style_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="pref_capacitive_backlight_entries">
+        <item>Default</item>
+        <item>Dim</item>
+        <item>Automatic</item>
+        <item>Always off</item>
+        <item>Always on, Full</item>
+        <item>Always on, Dim</item>
+    </string-array>
+    <string-array name="capacitive_backlight_values">
+        <item></item>
+        <item>100,100,100,100,-1,0,0,0,0,0</item>
+        <item>255,255,200,150,150,100,100,100,-1,0</item>
+        <item>-1,0,0,0,0,0,0,0,0,0</item>
+        <item>255,255,255,255,255,255,255,255,255,-1</item>
+        <item>100,100,100,100,100,100,100,100,100,-1</item>
+    </string-array>
+    <string-array name="gestures_entries">
+        <item>None</item>
+        <item>Medialink HD default</item>
+        <item>Custom app</item>
+        <item>Recent apps</item>
+        <item>Go to prev app</item>
+        <item>Go to home</item>
+        <item>Kill current app</item>
+        <item>Play/Pause</item>
+        <item>Next track</item>
+        <item>Prev track</item>
+        <item>Expand notification area</item>
+        <item>Expand settings panel</item>
+    </string-array>
+    <string-array name="gestures_values">
+        <item>0</item>
+        <item>10</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="gesture_button_entries">
+        <item>None</item>
+        <item>Custom app</item>
+        <item>Recent apps</item>
+        <item>Play/Pause</item>
+        <item>Next track</item>
+        <item>Prev track</item>
+        <item>Expand notification area</item>
+    </string-array>
+    <string-array name="gesture_button_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="minfree_entries">
+        <item>Stock</item>
+        <item>Multitasking</item>
+        <item>Multitasking Xtreme</item>
+        <item>Multitasking Ultimate</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="minfree_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="anim_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="anim_strings">
+        <item>Normal</item>
+        <item>Accelerate and Decelerate</item>
+        <item>Decelerate</item>
+        <item>Accelerate</item>
+    </string-array>
+    <string-array name="pulse_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="pulse_strings">
+        <item>Pulse Up and Down</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="allowed_rotations_items">
+        <item>90 degrees</item>
+        <item>180 degrees</item>
+        <item>270 degrees</item>
+    </string-array>
+    <string-array name="led_flash_duration_entries">
+        <item>1 min</item>
+        <item>3 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>30 min</item>
+    </string-array>
+    <string-array name="led_flash_duration_values">
+        <item>1</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="blinkfeed_autosync_interval_entries">
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>20 min</item>
+        <item>30 min</item>
+        <item>1 hour</item>
+        <item>3 hour</item>
+        <item>6 hour</item>
+        <item>12 hour</item>
+        <item>1 day</item>
+    </string-array>
+    <string-array name="blinkfeed_autosync_interval_values">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>720</item>
+        <item>1440</item>
+    </string-array>
+    <string-array name="pulldown_gestures_entries">
+        <item>Custom App</item>
+        <item>Recent Apps</item>
+        <item>Flashlight</item>
+        <item>Screen off</item>
+    </string-array>
+    <string-array name="navbar_type">
+        <item>Stock/From theme</item>
+        <item>Gallery</item>
+        <item>Collection</item>
+    </string-array>
+    <string-array name="folder_type">
+        <item>Stock/From theme</item>
+        <item>Gallery</item>
+        <item>Collection</item>
+    </string-array>
+    <string-array name="underlay_type">
+        <item>Gallery</item>
+        <item>Collection</item>
+    </string-array>
+    <string-array name="sense_anim_entries">
+        <item>Default</item>
+        <item>Fade in</item>
+        <item>Slide down</item>
+        <item>Slide left</item>
+        <item>Slide right</item>
+        <item>Slide up</item>
+    </string-array>
+    <string-array name="sense_anim_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="notif_expand_mode_entries">
+        <item>Expand first</item>
+        <item>Collapse all</item>
+        <item>Expand all</item>
+    </string-array>
+    <string-array name="notif_expand_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="prism_indicator_entries">
+        <item>Disable</item>
+        <item>Slider above navbar</item>
+        <item>Slider at bottom</item>
+        <item>Slider at top</item>
+        <item>Dots at bootom</item>
+        <item>Dots at top</item>
+    </string-array>
+    <string-array name="prism_indicator_values">
+        <item>2</item>
+        <item>0</item>
+        <item>5</item>
+        <item>3</item>
+        <item>1</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="folder_style_entries">
+        <item>Grid 2x2</item>
+        <item>Stack</item>
+        <item>Fan</item>
+        <item>Grid 3x3</item>
+    </string-array>
+    <string-array name="folder_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
